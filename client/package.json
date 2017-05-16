@@ -22,6 +22,7 @@
     "apollo-client": "^1.2.2",
     "expo": "^16.0.0",
     "graphql-tag": "^2.0.0",
+    "immutability-helper": "^2.2.0",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "prop-types": "^15.5.10",
@@ -33,6 +34,7 @@
     "react-redux": "^5.0.4",
     "redux": "^3.6.0",
     "redux-devtools-extension": "^2.13.2",
-    "remote-redux-devtools": "^0.5.10"
+    "remote-redux-devtools": "^0.5.10",
+    "subscriptions-transport-ws": "^0.6.0"
   }
 }
